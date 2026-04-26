@@ -83,7 +83,7 @@ The Arduino code is available in:
 Add your project images here:
 
 ![Setup](images/setup.jpg)
-![Prototype](images/prototype.jpg)
+
 
 ---
 
@@ -158,4 +158,3 @@ This project is open-source and available under the MIT License.
 
 
 
-If you paste this directly into **README.md**, it will work perfectly 👍
