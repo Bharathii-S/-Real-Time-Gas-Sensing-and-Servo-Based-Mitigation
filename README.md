@@ -82,8 +82,7 @@ The Arduino code is available in:
 
 Add your project images here:
 
-![Setup](images/setup.jpg)
-
+![Setup](IMG-20250521-WA0007.jpg)
 
 ---
 
